@@ -70,7 +70,6 @@ public class EvenOdd {
 
         }
 
-
         scanner.close();
     }
 

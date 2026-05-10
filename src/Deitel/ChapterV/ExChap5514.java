@@ -8,7 +8,6 @@ public class ExChap5514 {
             double balance = 1000.0;
 
             System.out.printf("%4s %10s%n", "Year", "Balance");
-
             for (int i = 1; i <= 10; i++) {
 
                 balance += balance * (rate / 100);

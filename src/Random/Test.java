@@ -1,19 +1,14 @@
 package Random;
 
-
 public class Test {
-    public static void main(String[] args) {
-        int i = (int) (Math.random() * 11);
+	public static void main (String[] args) {
 
+	for (int i = 100; i >= 1; i--) {
+		System.out.println(i);
+		
+		}
 
-        if (i % 2 == 0) {
-            System.out.println("Even");
-        } else  {
-            System.out.println("Odd");
-        }
-
-
-    }
+	}
 
 
 }
