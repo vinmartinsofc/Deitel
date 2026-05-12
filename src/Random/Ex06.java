@@ -12,7 +12,6 @@ public class Ex06 {
         double lowerGrade = Integer.MAX_VALUE;
         int aboveAverageCount = 0;
 
-
         System.out.printf("%n%s%n%s",
                 "You can stop at any time by entering -1.",
                 "Enter the students grade: ");

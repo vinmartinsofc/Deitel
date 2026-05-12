@@ -1,4 +1,6 @@
-package Random;
+package Drops;
+
+//dropped
 
 import java.util.Scanner;
 
